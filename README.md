@@ -32,4 +32,4 @@ This repository is for learning purposes only.
 
 Special thanks to [adedoyin-emmanuel](https://github.com/adedoyin-emmanuel/) for the original project inspiration.
 
-Please support by starring this
+Please support by starring this project and giving feedback.
