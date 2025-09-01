@@ -28,6 +28,8 @@
 
 ### Support
 
-Please support by starring this project. Follow me for more cool open-source projects.
+This repository is for learning purposes only.
 
-[GitHub - adedoyin-emmanuel](https://github.com/adedoyin-emmanuel/)
+Special thanks to [adedoyin-emmanuel](https://github.com/adedoyin-emmanuel/) for the original project inspiration.
+
+Please support by starring this
